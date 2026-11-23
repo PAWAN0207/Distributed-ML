@@ -1487,7 +1487,7 @@ The project therefore demonstrates practical understanding of:
 
 # 👨‍💻 Author
 
-**Capstone Project — Distributed Machine Learning**
+**PAWAN AJAY PRASAD --> Capstone Project — Distributed Machine Learning**
 
 Technologies demonstrated:
 
@@ -1511,10 +1511,10 @@ Matplotlib
 
 The source notebook references the following repository:
 
-**Capstone Project — Distributed Machine Learning by Dhananjay Kumar Sharma**
+**Capstone Project — Distributed Machine Learning by PAWAN AJAY PRASAD**
 
 ```text
-[https://github.com/JaySharma424/Distributed-ML](https://github.com/JaySharma424/Distributed-ML)
+[https://github.com/PAWAN0207/Distributed-MLL]
 ```
 
 ---
